@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Annotation Main",
+      "request": "launch",
+      "mainClass": "com.learn.annotation.Main",
+      "console": "integratedTerminal"
+    }
+  ]
+}

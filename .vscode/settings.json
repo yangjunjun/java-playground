@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": [
+    "annotation/src"
+  ],
+  "java.project.outputPath": "annotation/out",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.debug.settings.onBuildFailureProceed": true,
+  "files.encoding": "utf8",
+  "[java]": {
+    "editor.tabSize": 4
+  }
+}
