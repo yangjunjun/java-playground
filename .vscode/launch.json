@@ -7,6 +7,174 @@
       "request": "launch",
       "mainClass": "com.learn.annotation.Main",
       "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Array Main",
+      "request": "launch",
+      "mainClass": "com.learn.array.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Basics Main",
+      "request": "launch",
+      "mainClass": "com.learn.basics.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Collections Main",
+      "request": "launch",
+      "mainClass": "com.learn.collections.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Concurrency Main",
+      "request": "launch",
+      "mainClass": "com.learn.concurrency.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Crypto Main",
+      "request": "launch",
+      "mainClass": "com.learn.crypto.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Datetime Main",
+      "request": "launch",
+      "mainClass": "com.learn.datetime.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Enums Main",
+      "request": "launch",
+      "mainClass": "com.learn.enums.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Exception Main",
+      "request": "launch",
+      "mainClass": "com.learn.exception.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Generics Main",
+      "request": "launch",
+      "mainClass": "com.learn.generics.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run I18n Main",
+      "request": "launch",
+      "mainClass": "com.learn.i18n.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run IO Main",
+      "request": "launch",
+      "mainClass": "com.learn.io.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run JDBC Main",
+      "request": "launch",
+      "mainClass": "com.learn.jdbc.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Lambda Main",
+      "request": "launch",
+      "mainClass": "com.learn.lambda.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Modules Main",
+      "request": "launch",
+      "mainClass": "com.learn.modules.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Modern Syntax Main",
+      "request": "launch",
+      "mainClass": "com.learn.modern.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Network Main",
+      "request": "launch",
+      "mainClass": "com.learn.network.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run OOP Main",
+      "request": "launch",
+      "mainClass": "com.learn.oop.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Optional Main",
+      "request": "launch",
+      "mainClass": "com.learn.optional.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Reflection Main",
+      "request": "launch",
+      "mainClass": "com.learn.reflection.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Regex Main",
+      "request": "launch",
+      "mainClass": "com.learn.regex.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Stream Main",
+      "request": "launch",
+      "mainClass": "com.learn.stream.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run String Main",
+      "request": "launch",
+      "mainClass": "com.learn.str.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Virtual Threads Main",
+      "request": "launch",
+      "mainClass": "com.learn.vthreads.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Wrapper Main",
+      "request": "launch",
+      "mainClass": "com.learn.wrapper.Main",
+      "console": "integratedTerminal"
     }
   ]
 }
